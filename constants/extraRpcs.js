@@ -246,6 +246,11 @@ export const extraRpcs = {
         trackingDetails: privacyStatement.bloxroute,
       },
       {
+        url: "https://rpc-mumbai.maticvigil.com",
+        tracking: "yes",
+        trackingDetails: privacyStatement.bloxroute,
+      },
+      {
         url: "https://eth.rpc.blxrbdn.com/",
         tracking: "yes",
         trackingDetails: privacyStatement.bloxroute,
